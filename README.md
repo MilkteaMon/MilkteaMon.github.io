@@ -1,2 +1,5 @@
-# MilkteaMon.github.io
-Yang Jiang Ge's personal portfolio — generated public website hosted free on GitHub Pages
+# Yang Jiang Ge — personal portfolio
+
+Published website: https://milkteamon.github.io/
+
+This repository contains only the generated public website and its approved public assets. Editable source remains in a separate private repository. GitHub Pages publishes the main branch.
