@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#111718"/>
-  <g fill="#8cd5c8"><rect x="78" y="69" width="13" height="13" rx="2"/><rect x="97" y="69" width="13" height="13" rx="2"/><rect x="78" y="88" width="13" height="13" rx="2"/></g><rect x="97" y="88" width="13" height="13" rx="2" fill="#edf0eb"/>
-  <text x="130" y="92" fill="#edf0eb" font-family="Arial, sans-serif" font-size="22">Yang Jiang Ge · Engineering Portfolio</text>
-  <text x="78" y="190" fill="#8cd5c8" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">NUS · INDUSTRIAL &amp; SYSTEMS ENGINEERING</text>
-  <text x="72" y="305" fill="#edf0eb" font-family="Arial, sans-serif" font-size="91" letter-spacing="-5">Better systems.</text>
-  <text x="72" y="412" fill="#8cd5c8" font-family="Arial, sans-serif" font-size="91" letter-spacing="-5">Clearer decisions.</text>
-  <path d="M78 475 H1122" stroke="#2d383a"/>
-  <text x="78" y="525" fill="#a4b0ad" font-family="Arial, sans-serif" font-size="19">Operations · Analytics · Optimisation · AI automation</text>
-  <text x="78" y="562" fill="#93a39e" font-family="Arial, sans-serif" font-size="15">National University of Singapore · Expected graduation August 2027</text>
+  <rect width="1200" height="630" fill="#d8d6d3"/>
+  <g fill="#ae514d"><rect x="78" y="69" width="13" height="13" rx="2"/><rect x="97" y="69" width="13" height="13" rx="2"/><rect x="78" y="88" width="13" height="13" rx="2"/></g><rect x="97" y="88" width="13" height="13" rx="2" fill="#373333"/>
+  <text x="130" y="92" fill="#373333" font-family="Arial, sans-serif" font-size="22">Yang Jiang Ge · Engineering Portfolio</text>
+  <text x="78" y="190" fill="#843532" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">NUS · INDUSTRIAL &amp; SYSTEMS ENGINEERING</text>
+  <text x="72" y="305" fill="#373333" font-family="Arial, sans-serif" font-size="91" letter-spacing="-5">Better systems.</text>
+  <text x="72" y="412" fill="#843532" font-family="Arial, sans-serif" font-size="91" letter-spacing="-5">Clearer decisions.</text>
+  <path d="M78 475 H1122" stroke="#b6b0aa"/>
+  <text x="78" y="525" fill="#544f4b" font-family="Arial, sans-serif" font-size="19">Operations · Analytics · Optimisation · AI automation</text>
+  <text x="78" y="562" fill="#544f4b" font-family="Arial, sans-serif" font-size="15">National University of Singapore · Expected graduation August 2027</text>
 </svg>
